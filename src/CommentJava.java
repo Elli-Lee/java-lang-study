@@ -5,6 +5,6 @@ public class CommentJava {
         /*
         여러줄 주석
          */
-
+        // git ignore test
     }
 }

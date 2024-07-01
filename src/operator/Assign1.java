@@ -9,6 +9,5 @@ public class Assign1 {
         a /= 3;
         a %= 5;
         System.out.println("a = " + a);
-
     }
 }

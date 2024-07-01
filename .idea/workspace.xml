@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CommentJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommentJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,41 +48,79 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CommentJava">
-    <configuration name="CommentJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommentJava" />
+  <component name="RunManager" selected="Application.VarEx3">
+    <configuration name="Var6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Var6" />
       <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloJava" />
+    <configuration name="Var7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Var7" />
       <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloJava2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloJava2" />
+    <configuration name="VarEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx1" />
       <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="VarEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx2" />
       <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx3" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CommentJava" />
-        <item itemvalue="Application.HelloJava2" />
-        <item itemvalue="Application.HelloJava" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.VarEx3" />
+        <item itemvalue="Application.VarEx2" />
+        <item itemvalue="Application.VarEx1" />
+        <item itemvalue="Application.Var7" />
+        <item itemvalue="Application.Var6" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +133,8 @@
       <option name="presentableId" value="Default" />
       <updated>1719037529807</updated>
       <workItem from="1719037530856" duration="2301000" />
-      <workItem from="1719039838664" duration="7473000" />
+      <workItem from="1719039838664" duration="9034000" />
+      <workItem from="1719574929582" duration="7114000" />
     </task>
     <servers />
   </component>

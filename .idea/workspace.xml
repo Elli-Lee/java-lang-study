@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/CondOp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/CondOp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/If1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/If2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/If3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/If4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/If5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/If6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/Switch3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/Switch4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/ex/DistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/ex/ExchangeRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/ex/GradeSwitchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/ex/MoveRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/ex/ScoreEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Assign1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/Assign1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +64,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OperationEx3">
-    <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.Assign1" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="condition" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EvenOddEx">
+    <configuration name="CondOpEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.ex.CondOpEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="condition.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logical2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.Logical2" />
+    <configuration name="EvenOddEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.ex.EvenOddEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="condition.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx1" />
+    <configuration name="ExchangeRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.ex.ExchangeRateEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.ex.*" />
+          <option name="PATTERN" value="condition.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx2" />
+    <configuration name="GradeSwitchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.ex.GradeSwitchEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.ex.*" />
+          <option name="PATTERN" value="condition.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx3" />
+    <configuration name="MoveRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.ex.MoveRateEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.ex.*" />
+          <option name="PATTERN" value="condition.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperationEx3" />
-        <item itemvalue="Application.OperationEx2" />
-        <item itemvalue="Application.OperationEx1" />
-        <item itemvalue="Application.Assign1" />
-        <item itemvalue="Application.Logical2" />
+        <item itemvalue="Application.EvenOddEx" />
+        <item itemvalue="Application.CondOpEx" />
+        <item itemvalue="Application.GradeSwitchEx" />
+        <item itemvalue="Application.MoveRateEx" />
+        <item itemvalue="Application.ExchangeRateEx" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +155,7 @@
       <updated>1719037529807</updated>
       <workItem from="1719037530856" duration="2301000" />
       <workItem from="1719039838664" duration="9034000" />
-      <workItem from="1719574929582" duration="12394000" />
+      <workItem from="1719574929582" duration="17101000" />
     </task>
     <servers />
   </component>

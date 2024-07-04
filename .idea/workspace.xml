@@ -4,27 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/EnhancedFor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayExRef1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" afterDir="false" />
+    <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="&quot;feat: Array&quot;">
+      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,20 +70,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="method.ex" />
+      <recent name="method" />
       <recent name="array.ex" />
       <recent name="array" />
       <recent name="scanner" />
-      <recent name="loop" />
-      <recent name="condition" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductAdminEx">
-    <configuration name="ArrayEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx5" />
+  <component name="RunManager" selected="Application.MethodEx4">
+    <configuration name="MethodEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx6" />
+    <configuration name="MethodEx2Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx2Ref" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx7" />
+    <configuration name="MethodEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx8" />
+    <configuration name="MethodEx3Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx3Ref" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductAdminEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ProductAdminEx" />
+    <configuration name="MethodEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductAdminEx" />
-        <item itemvalue="Application.ArrayEx8" />
-        <item itemvalue="Application.ArrayEx7" />
-        <item itemvalue="Application.ArrayEx6" />
-        <item itemvalue="Application.ArrayEx5" />
+        <item itemvalue="Application.MethodEx4" />
+        <item itemvalue="Application.MethodEx3Ref" />
+        <item itemvalue="Application.MethodEx3" />
+        <item itemvalue="Application.MethodEx2Ref" />
+        <item itemvalue="Application.MethodEx2" />
       </list>
     </recent_temporary>
   </component>
@@ -162,12 +163,25 @@
       <updated>1719037529807</updated>
       <workItem from="1719037530856" duration="2301000" />
       <workItem from="1719039838664" duration="9034000" />
-      <workItem from="1719574929582" duration="48669000" />
+      <workItem from="1719574929582" duration="57100000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;feat: Array&quot;">
+      <option name="closed" value="true" />
+      <created>1720093633419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720093633419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;feat: Array&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;feat: Array&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

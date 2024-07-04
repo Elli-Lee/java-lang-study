@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cast/Casting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cast/Casting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cast/Casting3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cast/Casting4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,13 +61,13 @@
       <recent name="condition" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestedEx2">
-    <configuration name="ForEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ex.ForEx2" />
+  <component name="RunManager" selected="Application.Casting4">
+    <configuration name="Casting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cast.Casting1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.ex.*" />
+          <option name="PATTERN" value="cast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ex.ForEx3" />
+    <configuration name="Casting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cast.Casting2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.ex.*" />
+          <option name="PATTERN" value="cast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ex.NestedEx1" />
+    <configuration name="Casting3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cast.Casting3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.ex.*" />
+          <option name="PATTERN" value="cast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ex.NestedEx2" />
+    <configuration name="Casting4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cast.Casting4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.ex.*" />
+          <option name="PATTERN" value="cast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx3" />
+    <configuration name="Scope3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scope.Scope3_2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.ex.*" />
+          <option name="PATTERN" value="scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NestedEx2" />
-        <item itemvalue="Application.NestedEx1" />
-        <item itemvalue="Application.ForEx3" />
-        <item itemvalue="Application.WhileEx3" />
-        <item itemvalue="Application.ForEx2" />
+        <item itemvalue="Application.Casting4" />
+        <item itemvalue="Application.Casting3" />
+        <item itemvalue="Application.Casting2" />
+        <item itemvalue="Application.Casting1" />
+        <item itemvalue="Application.Scope3_2" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +147,7 @@
       <updated>1719037529807</updated>
       <workItem from="1719037530856" duration="2301000" />
       <workItem from="1719039838664" duration="9034000" />
-      <workItem from="1719574929582" duration="29720000" />
+      <workItem from="1719574929582" duration="34047000" />
     </task>
     <servers />
   </component>

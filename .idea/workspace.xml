@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cast/Casting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cast/Casting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cast/Casting3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cast/Casting4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ChangeVarEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,17 +65,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scanner" />
       <recent name="loop" />
       <recent name="condition" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Casting4">
-    <configuration name="Casting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cast.Casting1" />
+  <component name="RunManager" selected="Application.ScannerWhileEx4">
+    <configuration name="ScannerEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerEx5" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cast.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cast.Casting2" />
+    <configuration name="ScannerWhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cast.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cast.Casting3" />
+    <configuration name="ScannerWhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cast.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cast.Casting4" />
+    <configuration name="ScannerWhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cast.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scope3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scope.Scope3_2" />
+    <configuration name="ScannerWhileEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scope.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Casting4" />
-        <item itemvalue="Application.Casting3" />
-        <item itemvalue="Application.Casting2" />
-        <item itemvalue="Application.Casting1" />
-        <item itemvalue="Application.Scope3_2" />
+        <item itemvalue="Application.ScannerWhileEx4" />
+        <item itemvalue="Application.ScannerWhileEx3" />
+        <item itemvalue="Application.ScannerWhileEx2" />
+        <item itemvalue="Application.ScannerWhileEx1" />
+        <item itemvalue="Application.ScannerEx5" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +156,7 @@
       <updated>1719037529807</updated>
       <workItem from="1719037530856" duration="2301000" />
       <workItem from="1719039838664" duration="9034000" />
-      <workItem from="1719574929582" duration="34047000" />
+      <workItem from="1719574929582" duration="40611000" />
     </task>
     <servers />
   </component>

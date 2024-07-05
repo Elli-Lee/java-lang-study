@@ -5,27 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="&quot;feat: Array&quot;">
-      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +142,7 @@
       <updated>1719037529807</updated>
       <workItem from="1719037530856" duration="2301000" />
       <workItem from="1719039838664" duration="9034000" />
-      <workItem from="1719574929582" duration="57100000" />
+      <workItem from="1719574929582" duration="59914000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;feat: Array&quot;">
       <option name="closed" value="true" />

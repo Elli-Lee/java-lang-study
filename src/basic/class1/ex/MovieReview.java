@@ -1,4 +1,4 @@
-package class1.ex;
+package basic.class1.ex;
 
 public class MovieReview {
     String title;

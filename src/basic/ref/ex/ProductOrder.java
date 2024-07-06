@@ -1,4 +1,4 @@
-package class1.ex;
+package basic.ref.ex;
 
 public class ProductOrder {
     String productName;

@@ -1,13 +1,13 @@
 package intermediate1.lang.wrapper;
 
-public class AutoBoxingMain1 {
+public class AutoBoxingMain2 {
     public static void main(String[] args) {
         // Primitive -> Wrapper
         int value = 7;
-        Integer boxedValue = Integer.valueOf(value);
+        Integer boxedValue = value; // 오토 박싱
 
         // Wrapper -> Primitive
-        int unboxedvalue = boxedValue.intValue();
+        int unboxedvalue = boxedValue; // 오토 언박싱
 
         System.out.println("boxedValue = " + boxedValue);
         System.out.println("unboxedvalue = " + unboxedvalue);

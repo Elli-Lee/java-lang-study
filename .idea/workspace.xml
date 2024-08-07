@@ -5,30 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="&quot;feat: Array&quot;">
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex0/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex0/StringGradeEx0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex0/StringGradeEx0_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex1/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex1/StringGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex1/StringGradeEx1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex1/StringGradeEx1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/ClassGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/ClassGradeEx2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/ClassGradeEx2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/ClassRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/ClassGradeEx3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/ClassGradeEx3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/EnumMethodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/EnumRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref1/ClassGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref1/ClassGradeRefMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref1/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref2/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref2/EnumRefMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref2/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/EnumRefMain3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/EnumRefMain3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/EnumRefMain3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/EnumRefMain3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/ex1/AuthGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/ex1/AuthGradeMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/ex1/AuthGradeMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/http/HttpStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/http/HttpStatusMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/clazz/ClassCreateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/clazz/ClassCreateMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/clazz/ClassMetaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/clazz/ClassMetaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/clazz/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/clazz/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/math/MathMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/math/MathMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/math/RandomMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/math/RandomMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/math/test/LottoGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/math/test/LottoGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/math/test/LottoGeneratorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/math/test/LottoGeneratorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/string/test/TestString4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/string/test/TestString4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/system/SystemMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/system/SystemMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/AutoBoxingMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/AutoBoxingMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/AutoBoxingMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/AutoBoxingMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyIntegerMethodMain0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyIntegerMethodMain0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyIntegerMethodMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyIntegerMethodMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyIntegerNullMain0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyIntegerNullMain0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyIntegerNullMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/MyIntegerNullMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/WrapperClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/WrapperClassMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/WrapperUtilsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/WrapperUtilsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/WrapperVsPrimitive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/WrapperVsPrimitive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/test/WrapperTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/test/WrapperTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/test/WrapperTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/test/WrapperTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/test/WrapperTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/test/WrapperTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/test/WrapperTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate1/lang/wrapper/test/WrapperTest4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +53,7 @@
         <option value="Interface" />
         <option value="package-info" />
         <option value="AnnotationType" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -83,20 +96,20 @@
       <recent name="$PROJECT_DIR$/src/basic/extends1/ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="intermediate1.lang.wrapper" />
-      <recent name="intermediate1.lang.string.builder" />
-      <recent name="intermediate1.lang.string.chaining" />
-      <recent name="intermediate1.lang.string.method" />
-      <recent name="intermediate1.lang.string.immutable" />
+      <recent name="intermediate1.enumeration.ref3" />
+      <recent name="intermediate1.enumeration.ref2" />
+      <recent name="intermediate1.enumeration.ref1" />
+      <recent name="intermediate1.enumeration.ex3" />
+      <recent name="intermediate1.enumeration.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LottoGeneratorMain">
-    <configuration name="LottoGeneratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.lang.math.test.LottoGeneratorMain" />
+  <component name="RunManager" selected="Application.HttpStatusMain">
+    <configuration name="AuthGradeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.test.ex1.AuthGradeMain1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.lang.math.test.*" />
+          <option name="PATTERN" value="intermediate1.enumeration.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.lang.wrapper.test.WrapperTest1" />
+    <configuration name="AuthGradeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.test.ex1.AuthGradeMain2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.lang.wrapper.test.*" />
+          <option name="PATTERN" value="intermediate1.enumeration.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.lang.wrapper.test.WrapperTest2" />
+    <configuration name="EnumRefMain3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.ref3.EnumRefMain3_2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.lang.wrapper.test.*" />
+          <option name="PATTERN" value="intermediate1.enumeration.ref3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.lang.wrapper.test.WrapperTest3" />
+    <configuration name="EnumRefMain3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.ref3.EnumRefMain3_4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.lang.wrapper.test.*" />
+          <option name="PATTERN" value="intermediate1.enumeration.ref3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.lang.wrapper.test.WrapperTest4" />
+    <configuration name="HttpStatusMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.test.http.HttpStatusMain" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.lang.wrapper.test.*" />
+          <option name="PATTERN" value="intermediate1.enumeration.test.http.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LottoGeneratorMain" />
-        <item itemvalue="Application.WrapperTest4" />
-        <item itemvalue="Application.WrapperTest3" />
-        <item itemvalue="Application.WrapperTest2" />
-        <item itemvalue="Application.WrapperTest1" />
+        <item itemvalue="Application.HttpStatusMain" />
+        <item itemvalue="Application.AuthGradeMain2" />
+        <item itemvalue="Application.AuthGradeMain1" />
+        <item itemvalue="Application.EnumRefMain3_4" />
+        <item itemvalue="Application.EnumRefMain3_2" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +194,7 @@
       <workItem from="1721140017548" duration="29395000" />
       <workItem from="1721739328326" duration="1121000" />
       <workItem from="1721958666237" duration="2202000" />
-      <workItem from="1721975738903" duration="35585000" />
+      <workItem from="1721975738903" duration="47977000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;feat: Array&quot;">
       <option name="closed" value="true" />

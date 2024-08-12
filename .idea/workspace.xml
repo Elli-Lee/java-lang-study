@@ -5,41 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd09b344-8935-4991-97a5-d6eb2969c458" name="Changes" comment="&quot;feat: Array&quot;">
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex0/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex0/StringGradeEx0_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex0/StringGradeEx0_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex1/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex1/StringGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex1/StringGradeEx1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex1/StringGradeEx1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/ClassGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/ClassGradeEx2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/ClassGradeEx2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/ClassRefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex2/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/ClassGradeEx3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/ClassGradeEx3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/EnumMethodMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/EnumRefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ex3/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref1/ClassGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref1/ClassGradeRefMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref1/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref2/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref2/EnumRefMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref2/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/EnumRefMain3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/EnumRefMain3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/EnumRefMain3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/EnumRefMain3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/ref3/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/ex1/AuthGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/ex1/AuthGradeMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/ex1/AuthGradeMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/http/HttpStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate1/enumeration/test/http/HttpStatusMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/ChronoFieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/ChronoUnitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/DurationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/GetTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/InstantMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/LocalDateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/LocalDateTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/LocalTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/OffsetDateTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/PeriodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/ZoneIdMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate1/time/ZonedDataTimeMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,13 +80,13 @@
       <recent name="intermediate1.enumeration.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HttpStatusMain">
-    <configuration name="AuthGradeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.test.ex1.AuthGradeMain1" />
+  <component name="RunManager" selected="Application.GetTimeMain">
+    <configuration name="ChronoFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.time.ChronoFieldMain" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.enumeration.test.ex1.*" />
+          <option name="PATTERN" value="intermediate1.time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AuthGradeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.test.ex1.AuthGradeMain2" />
+    <configuration name="ChronoUnitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.time.ChronoUnitMain" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.enumeration.test.ex1.*" />
+          <option name="PATTERN" value="intermediate1.time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumRefMain3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.ref3.EnumRefMain3_2" />
+    <configuration name="DurationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.time.DurationMain" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.enumeration.ref3.*" />
+          <option name="PATTERN" value="intermediate1.time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumRefMain3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.ref3.EnumRefMain3_4" />
+    <configuration name="GetTimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.time.GetTimeMain" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.enumeration.ref3.*" />
+          <option name="PATTERN" value="intermediate1.time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpStatusMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate1.enumeration.test.http.HttpStatusMain" />
+    <configuration name="PeriodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate1.time.PeriodMain" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate1.enumeration.test.http.*" />
+          <option name="PATTERN" value="intermediate1.time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HttpStatusMain" />
-        <item itemvalue="Application.AuthGradeMain2" />
-        <item itemvalue="Application.AuthGradeMain1" />
-        <item itemvalue="Application.EnumRefMain3_4" />
-        <item itemvalue="Application.EnumRefMain3_2" />
+        <item itemvalue="Application.GetTimeMain" />
+        <item itemvalue="Application.ChronoFieldMain" />
+        <item itemvalue="Application.ChronoUnitMain" />
+        <item itemvalue="Application.DurationMain" />
+        <item itemvalue="Application.PeriodMain" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +171,7 @@
       <workItem from="1721140017548" duration="29395000" />
       <workItem from="1721739328326" duration="1121000" />
       <workItem from="1721958666237" duration="2202000" />
-      <workItem from="1721975738903" duration="47977000" />
+      <workItem from="1721975738903" duration="64582000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;feat: Array&quot;">
       <option name="closed" value="true" />
@@ -209,6 +186,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;feat: Array&quot;" />
